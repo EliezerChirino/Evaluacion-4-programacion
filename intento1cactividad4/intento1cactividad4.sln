@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intento1cactividad4", "intento1cactividad4.csproj", "{792030CA-1F04-4717-9B4A-0E702B3781DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{792030CA-1F04-4717-9B4A-0E702B3781DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792030CA-1F04-4717-9B4A-0E702B3781DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792030CA-1F04-4717-9B4A-0E702B3781DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792030CA-1F04-4717-9B4A-0E702B3781DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F014472-DF06-4ECE-87BA-0101FF5885BF}
+	EndGlobalSection
+EndGlobal

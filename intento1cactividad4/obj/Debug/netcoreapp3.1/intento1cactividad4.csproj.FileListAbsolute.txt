@@ -1,0 +1,13 @@
+C:\Users\genesis chirino\source\repos\intento1cactividad4\bin\Debug\netcoreapp3.1\intento1cactividad4.exe
+C:\Users\genesis chirino\source\repos\intento1cactividad4\bin\Debug\netcoreapp3.1\intento1cactividad4.deps.json
+C:\Users\genesis chirino\source\repos\intento1cactividad4\bin\Debug\netcoreapp3.1\intento1cactividad4.runtimeconfig.json
+C:\Users\genesis chirino\source\repos\intento1cactividad4\bin\Debug\netcoreapp3.1\intento1cactividad4.runtimeconfig.dev.json
+C:\Users\genesis chirino\source\repos\intento1cactividad4\bin\Debug\netcoreapp3.1\intento1cactividad4.dll
+C:\Users\genesis chirino\source\repos\intento1cactividad4\bin\Debug\netcoreapp3.1\intento1cactividad4.pdb
+C:\Users\genesis chirino\source\repos\intento1cactividad4\obj\Debug\netcoreapp3.1\intento1cactividad4.csprojAssemblyReference.cache
+C:\Users\genesis chirino\source\repos\intento1cactividad4\obj\Debug\netcoreapp3.1\intento1cactividad4.AssemblyInfoInputs.cache
+C:\Users\genesis chirino\source\repos\intento1cactividad4\obj\Debug\netcoreapp3.1\intento1cactividad4.AssemblyInfo.cs
+C:\Users\genesis chirino\source\repos\intento1cactividad4\obj\Debug\netcoreapp3.1\intento1cactividad4.csproj.CoreCompileInputs.cache
+C:\Users\genesis chirino\source\repos\intento1cactividad4\obj\Debug\netcoreapp3.1\intento1cactividad4.dll
+C:\Users\genesis chirino\source\repos\intento1cactividad4\obj\Debug\netcoreapp3.1\intento1cactividad4.pdb
+C:\Users\genesis chirino\source\repos\intento1cactividad4\obj\Debug\netcoreapp3.1\intento1cactividad4.genruntimeconfig.cache
